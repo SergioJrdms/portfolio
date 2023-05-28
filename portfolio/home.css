@@ -164,7 +164,7 @@
 
 
 /* Responsividade para dispositivos móveis */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 780px) {
   header {
     padding: 10px;
   }
