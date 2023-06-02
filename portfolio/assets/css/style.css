@@ -932,8 +932,8 @@ section .container {
   position: fixed;
   right: 0;
   left: 0;
-  bottom: 0;
-  padding: 30px;
+  bottom: 0.5;
+  padding: 15px;
   text-align: right;
   font-size: 13px;
   color: #fff;
